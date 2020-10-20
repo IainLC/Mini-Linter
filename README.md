@@ -1,5 +1,5 @@
 # Mini-Linter
-iterating over arrays to improve the quality of a paragraph. Similar to functions offered by word processing software.
+OLD PROJECT: Iterating over arrays to improve the quality of a paragraph. Similar to functions offered by word processing software.
 
 App link: local only
 
